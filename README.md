@@ -2,4 +2,4 @@ This repository provides the projects used in the Spring 2024 Machine Learning c
 
 In this repository, projects included will be covering a diverse array of topics in machine learning, including:
 
-Linear models for regression, kernel methods, neural networks, deep learning.
+Linear models for regression, kernel methods, neural networks, and deep learning.
